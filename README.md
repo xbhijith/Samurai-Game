@@ -4,14 +4,20 @@ This Python program is a multiplayer medieval-themed game that uses OpenCV, Medi
 
 # In order to run this program, perform the following steps:
 
+## Install the following libraries by running
+```bash
+pip install opencv-python mediapipe pygame numpy
+```
+
 ## Clone the repo to your files
 ```bash
 git clone https://github.com/xbhijith/Samurai-Game.git
 ```
 
-## Install the following libraries by running
+## Run the program using Command Prompt 
 ```bash
-pip install opencv-python mediapipe pygame numpy
+cd Samurai-Game
+python Samurai_multiplayer.py
 ```
 
 ## Requirements:
